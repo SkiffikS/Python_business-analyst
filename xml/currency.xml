@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exchange>
+  <currency>
+    <r030>36</r030>
+    <txt>Австралійський долар</txt>
+    <rate>23.4752</rate>
+    <cc>AUD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>124</r030>
+    <txt>Канадський долар</txt>
+    <rate>26.8689</rate>
+    <cc>CAD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>156</r030>
+    <txt>Юань Женьміньбі</txt>
+    <rate>5.0429</rate>
+    <cc>CNY</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>191</r030>
+    <txt>Куна</txt>
+    <rate>4.834</rate>
+    <cc>HRK</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>203</r030>
+    <txt>Чеська крона</txt>
+    <rate>1.4884</rate>
+    <cc>CZK</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>208</r030>
+    <txt>Данська крона</txt>
+    <rate>4.8923</rate>
+    <cc>DKK</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>344</r030>
+    <txt>Гонконгівський долар</txt>
+    <rate>4.6589</rate>
+    <cc>HKD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>348</r030>
+    <txt>Форинт</txt>
+    <rate>0.088452</rate>
+    <cc>HUF</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>356</r030>
+    <txt>Індійська рупія</txt>
+    <rate>0.44343</rate>
+    <cc>INR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>360</r030>
+    <txt>Рупія</txt>
+    <rate>0.0023511</rate>
+    <cc>IDR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>376</r030>
+    <txt>Новий ізраїльський шекель</txt>
+    <rate>10.333</rate>
+    <cc>ILS</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>392</r030>
+    <txt>Єна</txt>
+    <rate>0.24798</rate>
+    <cc>JPY</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>398</r030>
+    <txt>Теньге</txt>
+    <rate>0.078083</rate>
+    <cc>KZT</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>410</r030>
+    <txt>Вона</txt>
+    <rate>0.025719</rate>
+    <cc>KRW</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>484</r030>
+    <txt>Мексиканське песо</txt>
+    <rate>1.8408</rate>
+    <cc>MXN</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>498</r030>
+    <txt>Молдовський лей</txt>
+    <rate>1.8906</rate>
+    <cc>MDL</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>554</r030>
+    <txt>Новозеландський долар</txt>
+    <rate>21.2208</rate>
+    <cc>NZD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>578</r030>
+    <txt>Норвезька крона</txt>
+    <rate>3.5468</rate>
+    <cc>NOK</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>643</r030>
+    <txt>Російський рубль</txt>
+    <rate>0.59296</rate>
+    <cc>RUB</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>702</r030>
+    <txt>Сінгапурський долар</txt>
+    <rate>25.9039</rate>
+    <cc>SGD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>710</r030>
+    <txt>Ренд</txt>
+    <rate>2.0183</rate>
+    <cc>ZAR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>752</r030>
+    <txt>Шведська крона</txt>
+    <rate>3.3308</rate>
+    <cc>SEK</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>756</r030>
+    <txt>Швейцарський франк</txt>
+    <rate>36.6915</rate>
+    <cc>CHF</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>818</r030>
+    <txt>Єгипетський фунт</txt>
+    <rate>1.5832</rate>
+    <cc>EGP</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>826</r030>
+    <txt>Фунт стерлінгів</txt>
+    <rate>42.2477</rate>
+    <cc>GBP</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>840</r030>
+    <txt>Долар США</txt>
+    <rate>36.5686</rate>
+    <cc>USD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>933</r030>
+    <txt>Білоруський рубль</txt>
+    <rate>13.2919</rate>
+    <cc>BYN</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>944</r030>
+    <txt>Азербайджанський манат</txt>
+    <rate>21.5782</rate>
+    <cc>AZN</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>946</r030>
+    <txt>Румунський лей</txt>
+    <rate>7.4005</rate>
+    <cc>RON</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>949</r030>
+    <txt>Турецька ліра</txt>
+    <rate>1.9646</rate>
+    <cc>TRY</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>960</r030>
+    <txt>СПЗ (спеціальні права запозичення)</txt>
+    <rate>47.047</rate>
+    <cc>XDR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>975</r030>
+    <txt>Болгарський лев</txt>
+    <rate>18.6166</rate>
+    <cc>BGN</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>978</r030>
+    <txt>Євро</txt>
+    <rate>36.4095</rate>
+    <cc>EUR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>985</r030>
+    <txt>Злотий</txt>
+    <rate>7.7004</rate>
+    <cc>PLN</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>12</r030>
+    <txt>Алжирський динар</txt>
+    <rate>0.25917</rate>
+    <cc>DZD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>50</r030>
+    <txt>Така</txt>
+    <rate>0.36232</rate>
+    <cc>BDT</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>51</r030>
+    <txt>Вірменський драм</txt>
+    <rate>0.090148</rate>
+    <cc>AMD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>214</r030>
+    <txt>Домініканське песо</txt>
+    <rate>0.68504</rate>
+    <cc>DOP</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>364</r030>
+    <txt>Іранський ріал</txt>
+    <rate>0.00087068</rate>
+    <cc>IRR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>368</r030>
+    <txt>Іракський динар</txt>
+    <rate>0.025047</rate>
+    <cc>IQD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>417</r030>
+    <txt>Сом</txt>
+    <rate>0.4561</rate>
+    <cc>KGS</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>422</r030>
+    <txt>Ліванський фунт</txt>
+    <rate>0.024258</rate>
+    <cc>LBP</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>434</r030>
+    <txt>Лівійський динар</txt>
+    <rate>7.2354</rate>
+    <cc>LYD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>458</r030>
+    <txt>Малайзійський ринггіт</txt>
+    <rate>7.8854</rate>
+    <cc>MYR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>504</r030>
+    <txt>Марокканський дирхам</txt>
+    <rate>3.3231</rate>
+    <cc>MAD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>586</r030>
+    <txt>Пакистанська рупія</txt>
+    <rate>0.15951</rate>
+    <cc>PKR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>682</r030>
+    <txt>Саудівський ріял</txt>
+    <rate>9.7324</rate>
+    <cc>SAR</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>704</r030>
+    <txt>Донг</txt>
+    <rate>0.0015321</rate>
+    <cc>VND</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>764</r030>
+    <txt>Бат</txt>
+    <rate>0.96722</rate>
+    <cc>THB</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>784</r030>
+    <txt>Дирхам ОАЕ</txt>
+    <rate>9.9558</rate>
+    <cc>AED</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>788</r030>
+    <txt>Туніський динар</txt>
+    <rate>11.1619</rate>
+    <cc>TND</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>860</r030>
+    <txt>Узбецький сум</txt>
+    <rate>0.0033202</rate>
+    <cc>UZS</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>901</r030>
+    <txt>Новий тайванський долар</txt>
+    <rate>1.15184</rate>
+    <cc>TWD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>934</r030>
+    <txt>Туркменський новий манат</txt>
+    <rate>10.4482</rate>
+    <cc>TMT</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>941</r030>
+    <txt>Сербський динар</txt>
+    <rate>0.30372</rate>
+    <cc>RSD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>972</r030>
+    <txt>Сомоні</txt>
+    <rate>3.5781</rate>
+    <cc>TJS</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>981</r030>
+    <txt>Ларі</txt>
+    <rate>12.9506</rate>
+    <cc>GEL</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>986</r030>
+    <txt>Бразильський реал</txt>
+    <rate>6.7712</rate>
+    <cc>BRL</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>959</r030>
+    <txt>Золото</txt>
+    <rate>60362.33</rate>
+    <cc>XAU</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>961</r030>
+    <txt>Срібло</txt>
+    <rate>706.37</rate>
+    <cc>XAG</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>962</r030>
+    <txt>Платина</txt>
+    <rate>34855.73</rate>
+    <cc>XPT</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+  <currency>
+    <r030>964</r030>
+    <txt>Паладій</txt>
+    <rate>70669.55</rate>
+    <cc>XPD</cc>
+    <exchangedate>31.10.2022</exchangedate>
+</currency>
+</exchange>
